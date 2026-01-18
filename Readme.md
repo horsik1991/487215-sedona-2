@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Ольга Арбузова](https://up.htmlacademy.ru/htmlcss-individual/2/user/487215).
-* Наставник: `Неизвестно`.
+* Наставник: [Оксана Вайнруб](https://htmlacademy.ru/profile/id166797).
 
 ---
 
